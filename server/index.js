@@ -6,7 +6,7 @@ const app = express();
 
 // Define a route handler for the default home page
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('Hello Worrld!');
 });
 
 // Start the server and listen on port 3000
